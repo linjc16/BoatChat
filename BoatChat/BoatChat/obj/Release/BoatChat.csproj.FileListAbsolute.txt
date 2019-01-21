@@ -1,0 +1,70 @@
+C:\Users\lenovo\documents\visual studio 2017\Projects\BoatChat\BoatChat\bin\Release\BoatChat.exe.config
+C:\Users\lenovo\documents\visual studio 2017\Projects\BoatChat\BoatChat\bin\Release\BoatChat.exe
+C:\Users\lenovo\documents\visual studio 2017\Projects\BoatChat\BoatChat\bin\Release\BoatChat.pdb
+C:\Users\lenovo\documents\visual studio 2017\Projects\BoatChat\BoatChat\bin\Release\EntityFramework.dll
+C:\Users\lenovo\documents\visual studio 2017\Projects\BoatChat\BoatChat\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\lenovo\documents\visual studio 2017\Projects\BoatChat\BoatChat\bin\Release\MaterialDesignColors.dll
+C:\Users\lenovo\documents\visual studio 2017\Projects\BoatChat\BoatChat\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\lenovo\documents\visual studio 2017\Projects\BoatChat\BoatChat\bin\Release\System.Data.SQLite.dll
+C:\Users\lenovo\documents\visual studio 2017\Projects\BoatChat\BoatChat\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\lenovo\documents\visual studio 2017\Projects\BoatChat\BoatChat\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\lenovo\documents\visual studio 2017\Projects\BoatChat\BoatChat\bin\Release\WPF.Themes.dll
+C:\Users\lenovo\documents\visual studio 2017\Projects\BoatChat\BoatChat\bin\Release\EntityFramework.xml
+C:\Users\lenovo\documents\visual studio 2017\Projects\BoatChat\BoatChat\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\lenovo\documents\visual studio 2017\Projects\BoatChat\BoatChat\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\lenovo\documents\visual studio 2017\Projects\BoatChat\BoatChat\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\lenovo\documents\visual studio 2017\Projects\BoatChat\BoatChat\bin\Release\System.Data.SQLite.xml
+C:\Users\lenovo\documents\visual studio 2017\Projects\BoatChat\BoatChat\bin\Release\System.Data.SQLite.dll.config
+C:\Users\lenovo\documents\visual studio 2017\Projects\BoatChat\BoatChat\obj\Release\Simple Styles.baml
+C:\Users\lenovo\documents\visual studio 2017\Projects\BoatChat\BoatChat\obj\Release\ChatWindow.g.cs
+C:\Users\lenovo\documents\visual studio 2017\Projects\BoatChat\BoatChat\obj\Release\MainWindow.g.cs
+C:\Users\lenovo\documents\visual studio 2017\Projects\BoatChat\BoatChat\obj\Release\App.g.cs
+C:\Users\lenovo\documents\visual studio 2017\Projects\BoatChat\BoatChat\obj\Release\BoatChat_MarkupCompile.cache
+C:\Users\lenovo\documents\visual studio 2017\Projects\BoatChat\BoatChat\obj\Release\BoatChat_MarkupCompile.lref
+C:\Users\lenovo\documents\visual studio 2017\Projects\BoatChat\BoatChat\obj\Release\App.baml
+C:\Users\lenovo\documents\visual studio 2017\Projects\BoatChat\BoatChat\obj\Release\ChatWindow.baml
+C:\Users\lenovo\documents\visual studio 2017\Projects\BoatChat\BoatChat\obj\Release\MainWindow.baml
+C:\Users\lenovo\documents\visual studio 2017\Projects\BoatChat\BoatChat\obj\Release\BoatChat.g.resources
+C:\Users\lenovo\documents\visual studio 2017\Projects\BoatChat\BoatChat\obj\Release\BoatChat.Properties.Resources.resources
+C:\Users\lenovo\documents\visual studio 2017\Projects\BoatChat\BoatChat\obj\Release\BoatChat.csproj.GenerateResource.Cache
+C:\Users\lenovo\documents\visual studio 2017\Projects\BoatChat\BoatChat\obj\Release\BoatChat.exe
+C:\Users\lenovo\documents\visual studio 2017\Projects\BoatChat\BoatChat\obj\Release\BoatChat.pdb
+C:\Users\lenovo\documents\visual studio 2017\Projects\BoatChat\BoatChat\obj\Release\BoatChat.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\bin\Release\BoatChat.exe.config
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\bin\Release\BoatChat.exe
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\bin\Release\BoatChat.pdb
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\bin\Release\EntityFramework.dll
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\bin\Release\MaterialDesignColors.dll
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\bin\Release\System.Data.SQLite.dll
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\bin\Release\WPF.Themes.dll
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\bin\Release\EntityFramework.xml
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\bin\Release\System.Data.SQLite.xml
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\bin\Release\System.Data.SQLite.dll.config
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\obj\Release\BoatChat.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\obj\Release\Simple Styles.baml
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\obj\Release\ChatWindow.g.cs
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\obj\Release\MainWindow.g.cs
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\obj\Release\App.g.cs
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\obj\Release\BoatChat_MarkupCompile.cache
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\obj\Release\BoatChat_MarkupCompile.lref
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\obj\Release\App.baml
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\obj\Release\ChatWindow.baml
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\obj\Release\MainWindow.baml
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\obj\Release\BoatChat.g.resources
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\obj\Release\BoatChat.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\obj\Release\BoatChat.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\obj\Release\BoatChat.exe
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\obj\Release\BoatChat.pdb
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\bin\Release\ESBasic.dll
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\bin\Release\ESBasic.xml
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\bin\Release\Oraycn.MCapture.dll
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\bin\Release\Oraycn.MFile.dll
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\bin\Release\Oraycn.MCapture.xml
+C:\Users\lenovo\Documents\Visual_Studio_2017\Projects\BoatChat\BoatChat\bin\Release\Oraycn.MFile.xml

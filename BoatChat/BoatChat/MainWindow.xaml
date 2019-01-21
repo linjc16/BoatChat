@@ -1,0 +1,57 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" x:Name="LoginWindow" x:Class="BoatChat.MainWindow"
+        
+        xmlns:local="clr-namespace:BoatChat"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        Background="{DynamicResource LightBrush}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal" 
+        TextOptions.TextRenderingMode="Auto"      
+        FontFamily="pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="600" ResizeMode="CanMinimize" WindowStyle="None" AllowsTransparency="True" MouseLeftButtonDown="LoginWindow_MouseLeftButtonDown" WindowStartupLocation="CenterScreen" >
+    <Grid>
+        <materialDesign:Card Padding="32" Margin="16,27,16,0">
+
+            <TextBlock Style="{DynamicResource MaterialDesignTitleTextBlock}" HorizontalAlignment="Center">BoatChat
+                        <TextBlock Foreground="{DynamicResource PrimaryHueDarkForegroundBrush}" />
+            </TextBlock>
+        </materialDesign:Card>
+
+        <Button x:Name="LoginBtn__Login_" Content="Login" HorizontalAlignment="Left" Height="38" Margin="208.5,255,0,0" Width="166" VerticalAlignment="Top" Click="LoginBtn__Login__Click"/>
+        <TextBox x:Name="IDInput" HorizontalAlignment="Left" 
+                 Height="34" Margin="208.5,164,0,0" TextWrapping="Wrap" 
+                 materialDesign:HintAssist.Hint="Username" VerticalAlignment="Top"
+                 Width="166" HorizontalContentAlignment="Left" 
+                 VerticalContentAlignment="Top"
+                 Style="{StaticResource MaterialDesignFloatingHintTextBox}" 
+                 >
+
+        </TextBox>
+        <PasswordBox x:Name="PsdInput" HorizontalAlignment="Left" 
+                     Height="37" Margin="208.5,203,0,0" VerticalAlignment="Top" Width="166"
+                     materialDesign:HintAssist.Hint="Password" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" 
+                     Style="{StaticResource MaterialDesignFloatingHintPasswordBox}"
+                     />
+        <materialDesign:PackIcon x:Name="CloseIcon" Kind="WindowClose"  Margin="571,5,0,0" />
+        <materialDesign:PackIcon x:Name="MinIcon" Kind="Minus" Margin="547,5,0,0" />
+        <Button x:Name="MinBtn" Content="Button"
+                HorizontalAlignment="Left" Height="20" Margin="545,3,0,0" VerticalAlignment="Top" Width="20" 
+                Background="{x:Null}" Foreground="{x:Null}" BorderBrush="{x:Null}"
+                Click="MinBtn_Click"
+                    Style="{StaticResource MaterialDesignRaisedLightButton}"
+                    ToolTip="Minimize"
+                />
+        <Button x:Name="CloseBtn" Content="Button" HorizontalAlignment="Left" Height="20" Margin="569,3,0,0" 
+                VerticalAlignment="Top" Width="20" Background="{x:Null}" 
+                BorderBrush="{x:Null}" Click="CloseBtn_Click"
+                Style="{StaticResource MaterialDesignRaisedLightButton}"
+                ToolTip="Quit"
+                />
+    </Grid>
+</Window>

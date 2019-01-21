@@ -1,0 +1,26 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BoatChat"
+        xmlns:my="clr-namespace:MaterialDesignColors.WpfExample"
+        xmlns:wpfExample="clr-namespace:MaterialDesignColors.WpfExample"
+        
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" x:Class="BoatChat.Window1"
+        mc:Ignorable="d"
+        Title="Window1" Height="600" Width="600" WindowStartupLocation="CenterScreen">
+    <Grid>
+
+        <materialDesign:DialogHost  HorizontalAlignment="Left" Height="549" Margin="10,10,0,0" VerticalAlignment="Top" Width="572">
+            <materialDesign:DialogHost.DialogContent>
+111
+            </materialDesign:DialogHost.DialogContent>
+        </materialDesign:DialogHost>
+        <Button Content="Button" 
+                Command="{x:Static materialDesign:DialogHost.OpenDialogCommand}"
+                HorizontalAlignment="Left" Height="146.808" Margin="114.085,218.745,0,0"  VerticalAlignment="Top" Width="312.766"/>
+
+
+    </Grid>
+</Window>
